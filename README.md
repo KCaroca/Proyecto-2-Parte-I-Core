@@ -22,8 +22,8 @@ Este conjunto de datos contiene información clínica y demográfica de mujeres 
 
 El dataset contiene registros cardiotocográficos utilizados para evaluar el estado de salud fetal, permitiendo clasificar los casos en normales, sospechosos o patológicos.
 
-#Resumen del EDA Inicial
--
+# Resumen del EDA Inicial
+
 **Salud Mental en Jóvenes**
 
 Se identificaron variables categóricas y numéricas relevantes para el análisis de salud mental. Se detectaron valores faltantes y distribuciones heterogéneas que requerirán preprocesamiento.
@@ -41,7 +41,7 @@ El conjunto presenta variables clínicas relevantes para la evaluación del ries
 El dataset presenta variables biomédicas derivadas de monitoreo fetal. Se identificaron algunas clases con menor representación, aspecto que deberá considerarse en etapas posteriores de modelado.
 
 ## Problema Seleccionado
--
+
 ### Descripción del problema
 
 El problema seleccionado consiste en predecir el riesgo de depresión en estudiantes utilizando variables académicas, familiares, sociales y personales. El objetivo es construir un modelo capaz de clasificar a los estudiantes según su nivel de riesgo, permitiendo identificar tempranamente factores asociados a problemas de salud mental.
@@ -55,25 +55,25 @@ Durante el EDA se identificó una variable objetivo claramente definida (riesgo_
 Estas características lo convierten en un caso adecuado para desarrollar un problema de clasificación supervisada mediante técnicas de aprendizaje automático.
 
 ## Objetivos Específicos
--
-Explorar las variables asociadas al riesgo de depresión en estudiantes.
-Identificar factores académicos, familiares y sociales relacionados con la variable objetivo.
-Aplicar técnicas de limpieza y preprocesamiento de datos.
-Construir y comparar modelos de clasificación para predecir el riesgo de depresión.
-Evaluar el desempeño de los modelos utilizando métricas apropiadas de clasificación.
+
+- Explorar las variables asociadas al riesgo de depresión en estudiantes.
+- Identificar factores académicos, familiares y sociales relacionados con la variable objetivo.
+- Aplicar técnicas de limpieza y preprocesamiento de datos.
+- Construir y comparar modelos de clasificación para predecir el riesgo de depresión.
+- Evaluar el desempeño de los modelos utilizando métricas apropiadas de clasificación.
 
 # Instrucciones para Ejecutar
--
-Clonar o descargar el repositorio.
-Instalar las librerías necesarias (pandas, numpy, matplotlib y seaborn).
-Abrir los notebooks de Jupyter incluidos en el proyecto.
-Ejecutar las celdas en orden para reproducir el análisis exploratorio.
-Revisar los resultados y conclusiones obtenidas.
+
+- Clonar o descargar el repositorio.
+- Instalar las librerías necesarias (pandas, numpy, matplotlib y seaborn).
+- Abrir los notebooks de Jupyter incluidos en el proyecto.
+- Ejecutar las celdas en orden para reproducir el análisis exploratorio.
+- Revisar los resultados y conclusiones obtenidas.
 
 #Autor
--
+
 Karla Caroca
 
 # Licencia
--
+
 Proyecto desarrollado con fines académicos y educativos.
