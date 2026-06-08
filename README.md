@@ -70,7 +70,7 @@ Estas características lo convierten en un caso adecuado para desarrollar un pro
 - Ejecutar las celdas en orden para reproducir el análisis exploratorio.
 - Revisar los resultados y conclusiones obtenidas.
 
-#Autor
+# Autor
 
 Karla Caroca
 
