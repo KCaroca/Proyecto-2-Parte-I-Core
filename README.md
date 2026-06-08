@@ -2,11 +2,10 @@
 
 ## Descripción
 
--
 Este proyecto tiene como objetivo realizar un análisis exploratorio de datos (EDA) sobre distintos conjuntos de datos relacionados con salud y educación, con el fin de identificar sus características, calidad de datos, posibles desafíos y oportunidades de aplicación en ciencia de datos. A partir de este análisis se selecciona un conjunto de datos y una problemática específica para desarrollar en etapas posteriores mediante técnicas de aprendizaje automático.
 
 # Conjuntos de Datos Analizados
--
+
 **1. Salud Mental en Jóvenes**
 
 Este conjunto de datos contiene información relacionada con variables demográficas, hábitos de vida, condiciones académicas y factores asociados a la salud mental de jóvenes, permitiendo estudiar posibles factores de riesgo y patrones asociados a trastornos psicológicos.
